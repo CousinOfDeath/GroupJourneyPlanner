@@ -1,0 +1,2 @@
+# GroupJourneyPlanner
+GitHub Pages
