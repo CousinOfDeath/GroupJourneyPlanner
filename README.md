@@ -1,2 +1,3 @@
 # GroupJourneyPlanner
-GitHub Pages
+
+For Aalto University Design Project
